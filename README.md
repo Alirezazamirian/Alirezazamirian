@@ -1,12 +1,68 @@
-<h1><p>Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width='30px' height='30px'></a>, and Welcome ! <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></p></h1>
+<h1 align="center"><p>Hi <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> it's Alireza Zamirian! </p></h1>
+<h4 align="center">A passionate bachend developer</h4>
 
+## Personal info
+
+``` python
+class Introduction:
+    def __init__(self, name, programming_languages, interests, role, level, birthyear, university):
+        self.name = name
+        self.programming_languages = programming_languages
+        self.interests = interests
+        self.role = role
+        self.level = level
+        self.birthyear = birthyear
+        self.university = university
+
+    def get_introduction(self):
+        introduction = (f"Hello! My name is {self.name} and was born in {self.birthyear}, "
+                        f"also I graduated with {self.university} of computer engineering. "
+                        f"I am proficient in the following programming languages: "
+                        f"{', '.join(self.programming_languages)} as a {self.level}. My interests include "
+                        f"{', '.join(self.interests)} and I currently work as a {self.role}.")
+        return introduction
+
+alirezazamirian = Introduction("Alireza Zamirian", ["Python", "Golang"],
+                       ["server-side development", "technology"],
+                       "back-end developer", "Junior", 2001, 'bachelor')
+
+print(alirezazamirian.get_introduction())
+
+```
+
+
+## contact me
+
+<a href="https://linkedin.com/in/alirezazamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linkedin-96.png"></a>
+<a href="https://telegram.com/alireza_zamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-telegram-96.png"></a>
+<a href="https://instagram.com/alireza_zamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-instagram-96.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-website-96(1).png"></a>
+
+
+## Github stats
+
+ ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alirezazamirian&show_icons=true&theme=tokyonight)
+
+
+ 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-python-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-django-48(1).png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-html-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-css-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-javascript-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-go-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-git-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-graphql-50.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-postgresql-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-sqlite-50.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-mysql-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-docker-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-pycharm-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linux-48.png"></a>
 
-<h2><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-target="animated-image.originalLink"><img width ="40px" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> Socials </h2>
+___
 
-<p align="center"> <a href="LINKEDIN PROFILE LINK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a target="_blank" href="mailto:alirezazamirian@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a> &nbsp;
-<a href="https://discordapp.com/users/ali.t.nazari" rel="nofollow">
-<img  width="32" height="32" src="https://camo.githubusercontent.com/98eef00fa2e5a2db274d8695fa77ab1bd190b59493b62707352e6579b5186026/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646973636f7264" alt="Discord" title="Discord"  data-canonical-src="https://cdn.simpleicons.org/discord" style="max-width: 100%;">
-</a>
-</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezazamirian)
+
+
