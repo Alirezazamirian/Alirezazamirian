@@ -1,7 +1,7 @@
 <h1 align="center"><p>Hi <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> it's Alireza Zamirian! </p></h1>
 <h4 align="center">A passionate bachend developer</h4>
 
-## Personal info
+## Personal info(python)
 
 ``` python
 class Introduction:
@@ -30,6 +30,43 @@ print(alirezazamirian.get_introduction())
 
 ```
 
+## personal info(golang)
+
+``` go
+
+package main
+
+import (
+	"fmt"
+)
+
+type Introduction struct {
+	Name                 string
+	ProgrammingLanguages []string
+	Interests            []string
+	Role                 string
+	Level                string
+	Age                  int
+	University           string
+}
+
+func main() {
+	alirezazamirian := Introduction{
+		Name:                 "Alireza Zamirian",
+		ProgrammingLanguages: []string{"Python", "Golang"},
+		Interests:            []string{"server-side development", "technology"},
+		Role:                 "back-end developer",
+		Level:                "Junior",
+		Age:                  23,
+		University:           "bachelor",
+	}
+	fmt.Println(alirezazamirian.Name, alirezazamirian.ProgrammingLanguages,
+		alirezazamirian.Interests, alirezazamirian.Role, alirezazamirian.Level,
+		alirezazamirian.Age, alirezazamirian.University)
+}
+
+
+```
 
 ## contact me
 
@@ -38,10 +75,6 @@ print(alirezazamirian.get_introduction())
 <a href="https://instagram.com/alireza_zamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-instagram-96.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-website-96(1).png"></a>
 
-
-## Github stats
-
- ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alirezazamirian&show_icons=true&theme=tokyonight)
 
 
  
