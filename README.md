@@ -81,18 +81,18 @@ func main() {
 <h3 align="left">Languages and Tools:</h3>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-python-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-django-48(1).png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-html-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-css-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-javascript-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-go-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linux-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-bash-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-git-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-graphql-50.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-aws-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-ansible-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-terraform-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-postgresql-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-sqlite-50.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-mysql-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-docker-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-pycharm-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linux-48.png"></a>
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-kubernetes-48.png"></a>
 
 ___
 
