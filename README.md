@@ -23,12 +23,12 @@ type Introduction struct {
 func main() {
 	alirezazamirian := Introduction{
 		Name:                 "Alireza Zamirian",
-		ProgrammingLanguages: []string{"Python", "Golang"},
-		Interests:            []string{"server-side development", "technology"},
-		Role:                 "back-end developer",
+		ProgrammingLanguages: []string{"Python", "Golang", "bash"},
+		Interests:            []string{"server-side technology"},
+		Role:                 "DevOps engineer",
 		Level:                "Junior",
-		Age:                  23,
-		University:           "bachelor",
+		Age:                  24,
+		University:           "master",
 	}
 	fmt.Println(alirezazamirian.Name, alirezazamirian.ProgrammingLanguages,
 		alirezazamirian.Interests, alirezazamirian.Role, alirezazamirian.Level,
