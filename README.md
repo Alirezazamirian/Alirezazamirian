@@ -52,10 +52,6 @@ func main() {
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-python-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-django-48(1).png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-go-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-c-sharp-logo-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-.net-or- dot-net -a-software-framework-developed-by-microsoft-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-postgresql-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-mysql-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linux-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-bash-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-git-48.png"></a>
