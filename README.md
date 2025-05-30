@@ -60,7 +60,7 @@ func main() {
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-terraform-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-docker-48.png"></a>
 <a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-kubernetes-48.png"></a>
-
+<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-monitoring-48.png"></a>
 ___
 
 
