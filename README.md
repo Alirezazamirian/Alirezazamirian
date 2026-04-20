@@ -1,67 +1,79 @@
-<h1 align="center"><p>Hi <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> it's Alireza Zamirian! </p></h1>
-<h4 align="center">A passionate DevOps engineer</h4>
+<h1 align="center">Hi 👋 I'm Alireza Zamirian</h1>
+<h3 align="center">DevOps / SRE Engineer • Platform & Infrastructure Enthusiast</h3>
 
+---
 
-``` go
+### 🚀 About Me
+- 🛠 DevOps / DevSecOps / SRE focused on **scalable infrastructure & platform engineering**
+- 🧠 Strong interest in **efficiency, automation, reliability, and distributed systems**
+- 🐧 Linux-first mindset with deep hands-on experience
+- ⚙️ 2–3 years of practical experience building and maintaining production environments
+- 🎓 Master's level education
 
-package main
+---
 
-import (
-	"fmt"
-)
+### 🧩 What I Have Worked With
 
-type Introduction struct {
-	Name                 string
-	ProgrammingLanguages []string
-	Interests            []string
-	Role                 string
-	Level                string
-	Age                  int
-	University           string
-}
+#### 🖥️ Infrastructure & Virtualization
+- VMware (ESXi, vSphere, vCenter)
+- KVM, QEMU, Proxmox
 
-func main() {
-	alirezazamirian := Introduction{
-		Name:                 "Alireza Zamirian",
-		ProgrammingLanguages: []string{"Python", "Golang", "bash"},
-		Interests:            []string{"server-side technology"},
-		Role:                 "DevOps engineer",
-		Level:                "Junior",
-		Age:                  24,
-		University:           "master",
-	}
-	fmt.Println(alirezazamirian.Name, alirezazamirian.ProgrammingLanguages,
-		alirezazamirian.Interests, alirezazamirian.Role, alirezazamirian.Level,
-		alirezazamirian.Age, alirezazamirian.University)
-}
+#### ☸️ Cloud & Containerization
+- Kubernetes (K8s)
+- Docker
+- AWS
 
+#### 🔧 Infrastructure as Code & Automation
+- Terraform
+- Ansible
+- Bash scripting
 
-```
+#### 💻 Programming
+- Python (Django)
+- C
 
-## contact me
+#### 🗄 Databases
+- PostgreSQL, MySQL, MongoDB, Oracle
+- High Availability setups
 
-<a href="https://linkedin.com/in/alirezazamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linkedin-96.png"></a>
-<a href="https://telegram.com/alireza_zamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-telegram-96.png"></a>
-<a href="https://instagram.com/alireza_zamirian/"><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-instagram-96.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-website-96(1).png"></a>
+#### ⚖️ Reliability & Performance
+- Load balancing: HAProxy, Nginx, Apache
+- Monitoring & observability
+- High Availability architectures
 
+---
 
+### 🧠 Knowledge
+- LPIC-1, LPIC-2, LPIC-303, LPIC-305
+- eBPF-based systems and networks
 
- 
-<h3 align="left">Languages and Tools:</h3>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-python-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-django-48(1).png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-go-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linux-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-bash-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-git-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-aws-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-ansible-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-terraform-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-docker-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-kubernetes-48.png"></a>
-<a href=""><img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-monitoring-48.png"></a>
+---
 
+### 📈 Current Focus
+- Platform engineering & internal developer platforms
+- Kubernetes ecosystem deep dive
+- Infrastructure automation at scale
+- Observability & system reliability
+- Efficiency & improvement at infrastructure level
 
+---
 
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/alirezazamirian/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://t.me/alireza_zamirian">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/alireza_zamirian">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+  </a>
+</p>
 
+---
+
+### ⚡ Philosophy
+> Automate everything.  
+> Design for failure.  
+> Keep systems efficient, observable, scalable, and simple.
