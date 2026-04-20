@@ -61,13 +61,13 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/alirezazamirian/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-linkedin-96.png" width="40"/>
   </a>
   <a href="https://t.me/alireza_zamirian">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
+    <img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-telegram-96.png" width="40"/>
   </a>
-  <a href="https://instagram.com/alireza_zamirian">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+  <a href="mailto:alirezazamirian@gmail.com">
+    <img src="https://github.com/Alirezazamirian/Alirezazamirian/blob/main/icons8-gmail-96.png" width="40"/>
   </a>
 </p>
 
